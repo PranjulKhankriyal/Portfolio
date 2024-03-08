@@ -1,0 +1,44 @@
+.about-body .hello-name{
+    position: relative;
+    height: 70vh;
+}
+
+.about-body .hello-name .hello-box{
+    position: absolute;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 800%;
+    color: darkcyan;
+    left: 38%;
+    top: 20%;
+}
+
+.about-body .hello-name .name-box{
+    position: absolute;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 820%;
+    left: 22%;
+    top: 30%;
+}
+
+.about-body .about-detail{
+    position: relative;
+    background-color: pink;
+    height: 80vh;
+}
+
+.about-body .about-detail .vl{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 70%;
+    left: 35%;
+    top: 16%;
+}
+
+.about-body .about-detail .about{
+    position: absolute;
+    text-align: left;
+    left: 40%;
+    top: 22%;
+}

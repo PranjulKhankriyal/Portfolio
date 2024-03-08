@@ -1,0 +1,39 @@
+.LandingPage{
+    position: relative;
+    height: 98vh;
+}
+
+.LandingPage-left-box{
+    position: absolute;
+    width: 25%;
+    height: 35%;
+    top: 20%;
+    left: 18%;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    z-index: 2;
+}
+
+.LandingPage-left-box .name-head{
+    font-size: 500%;
+    font-weight: bold;
+    color: darkcyan;
+}
+
+.LandingPage-left-box .designation-box{
+    position: relative;
+    font-size: 145%;
+    top: 5%;
+}
+
+.LandingPage-left-box .quote{
+    position: relative;
+    top: 10%;
+}
+
+
+.LandingPage .avatar{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}

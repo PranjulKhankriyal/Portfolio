@@ -1,0 +1,25 @@
+footer{
+    position: relative;
+    background-color: darkcyan;
+    height: 50vh;
+}
+
+footer header{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    top: 30%;
+}
+
+footer .Home-town{
+    position: relative;
+    top: 46%;
+}
+
+footer .e-mail{
+    position: relative;
+    top: 48%;
+    color: cyan;
+    font-size: 20px;
+}

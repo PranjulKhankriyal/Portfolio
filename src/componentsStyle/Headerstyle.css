@@ -1,0 +1,31 @@
+nav{
+    position: relative;
+    height: 10vh;
+}
+
+.menubar-link{
+    text-decoration: none;
+    color: black;
+}
+
+nav .menu-bar{
+    position: absolute;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 60%;
+    width: 30%;
+    left: 60%;
+    top: 20%;
+}
+
+nav .menu-bar .menubar-link{
+    position: relative;
+    padding: 3%;
+    top: 28%;
+    transition: 2s;
+}
+
+.menubar-link:hover{
+    background-color: cyan;
+    border: 1px solid black;
+}

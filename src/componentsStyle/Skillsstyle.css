@@ -1,0 +1,46 @@
+.skills-body{
+    position: relative;
+    height: 90vh;
+    font-family: 'Courier New', Courier, monospace;;
+}
+
+.skills-body .skills-component{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    background-color: cyan;
+    border: 1px solid black;
+    width: 12%;
+    height: 50%;
+    top: 20%;
+    font-size: 180%;
+    transition: 900ms;
+}
+
+.skills-body .skills-component:hover{
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
+}
+
+.skills-body .list{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80%;
+}
+
+.skills-body .Language-body{
+    width: 15%;
+    left: 8%;
+}
+
+.skills-body .Framework-body{
+    width: 20%;
+    left: 28%;
+}
+
+.skills-body .DevlopmentTools-body{
+    width: 20%;
+    left: 53%;
+}
+
+.skills-body .Databases-body{
+    width: 15%;
+    left: 78%;
+}

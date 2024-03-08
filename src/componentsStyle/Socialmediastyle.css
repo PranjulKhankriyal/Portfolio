@@ -1,0 +1,35 @@
+.social-account .github-icon{
+    position: fixed;
+    width: 2.5%;
+    height: 4.5%;
+    z-index: 2;
+    left: 10%;
+    top: 70%;
+}
+
+.social-account .linkedin-logo{
+    position: fixed;
+    width: 2.5%;
+    height: 4.5%;
+    z-index: 2;
+    left: 10%;
+    top: 78%;
+}
+
+.social-account .twitter-logo{
+    position: fixed;
+    width: 2.5%;
+    height: 4.5%;
+    z-index: 2;
+    left: 10%;
+    top: 86%;
+}
+
+.social-account .vl{
+    position: fixed;
+    border-left: 2px solid black;
+    height: 8%;
+    z-index: 2;
+    top: 92%;
+    left: 11.2%;
+}

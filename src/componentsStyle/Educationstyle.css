@@ -1,0 +1,99 @@
+.Education-Body{
+    position: relative;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Education-Body .secondaryEducation{
+    position: absolute;
+    text-align: left;
+    left: 45%;
+    top: 65%;
+    font-size: 120%;
+}
+
+.Education-Body .schooleducaton1{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    top: 68%;
+    left: 40%;
+}
+
+.Education-Body .v1{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 15%;
+    z-index: 2;
+    top: 18.5%;
+    left: 50%;
+}
+
+.Education-Body .schooleducaton2{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    top: 38.5%;
+    left: 25%;
+}
+
+.Education-Body .senior-secondaryEducation{
+    position: absolute;
+    text-align: left;
+    left: 30%;
+    top: 36%;
+    font-size: 120%;
+}
+
+.Education-Body .v2{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 16%;
+    z-index: 2;
+    top: 46.5%;
+    left: 50.2%;
+}
+
+.Education-Body .graduation{
+    position: absolute;
+    width: 3%;
+    height: 8%;
+    top: 10%;
+    left: 20%;
+}
+
+.Education-Body .graduation-education{
+    position: absolute;
+    text-align: left;
+    left: 25%;
+    top: 10%;
+    font-size: 120%;
+}
+
+
+.Education-Body .v3{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 8%;
+    z-index: 2;
+    top: 76.5%;
+    left: 50.2%;
+}
+
+.Education-Body .v5{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 4%;
+    z-index: 2;
+    top: 86%;
+    left: 50.2%;
+}
+
+.Education-Body .v6{
+    position: absolute;
+    border-left: 2px solid black;
+    height: 2%;
+    z-index: 2;
+    top: 91%;
+    left: 50.2%;
+}
