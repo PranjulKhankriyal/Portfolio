@@ -4,7 +4,7 @@ function Project(){
     return(
         <div className="project-body">
             this is project page.!!!<br/>
-            under construction
+            under construction wait...!!!!
         </div>
     );
 }
