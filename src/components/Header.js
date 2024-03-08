@@ -7,11 +7,11 @@ function Header(){
     return(
         <nav>
             <div className="menu-bar">
-                <Link to='/' className="menubar-link">Home</Link>
-                <Link to='/about' className="menubar-link">About</Link>
-                <Link to='/project' className="menubar-link">Project</Link>
-                <Link to='/education' className="menubar-link">Education</Link>
-                <Link to='/skills' className="menubar-link">skills</Link>
+                <Link to='Portfolio/' className="menubar-link">Home</Link>
+                <Link to='Portfolio/about' className="menubar-link">About</Link>
+                <Link to='Portfolio/project' className="menubar-link">Project</Link>
+                <Link to='Portfolio/education' className="menubar-link">Education</Link>
+                <Link to='Portfolio/skills' className="menubar-link">skills</Link>
             </div>
         </nav>
     );
